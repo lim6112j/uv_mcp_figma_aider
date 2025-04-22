@@ -28,3 +28,4 @@ echo '{
 ```
 7. restart claude desktopapp
 8. aider --model anthropic/claude-3-5-sonnet-latest
+# uv_mcp_figma_aider

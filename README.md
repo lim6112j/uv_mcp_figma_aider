@@ -2,6 +2,8 @@
 1. claude desktop install
 2. desktop settings - mcp enable
 3. ~/Library/Application Support/Claude/claude_desktop_config.json edit
+
+```
 echo '{
   "mcpServers": {
     "figma-mcp": {
@@ -13,6 +15,8 @@ echo '{
     }
   }
 }' > ~/Library/Application\ Support/Claude/claude_desktop_config.json
+```
+
 4. npm install -g mcpm-aider
 5. mcpm-aider start-bridge
 6. edit ~/.aider.model.settings.yml
